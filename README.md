@@ -2,6 +2,8 @@
 Esta es una aplicación de escritorio que cumple la función de directorio personal, está realizada en Java 8 y utiliza
 una base de datos MySQL.
 
+Video de exposición: https://www.youtube.com/watch?v=eu2eRHMCSgQ
+
 Para utilizar la solución tenga en cuenta los siguientes apartados:
 
 <ul>
